@@ -65,3 +65,7 @@ body {
     z-index: -1;
     top:-300px;
   }
+
+  .chance{
+    color: #fff;
+  }
